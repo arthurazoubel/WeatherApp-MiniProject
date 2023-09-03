@@ -1,5 +1,7 @@
-const KEY = 'RHCcm0rt6mA6jC3sDZwc5AGEDJGRl5BF'
-//const citySearched = 'brasília'
+const KEY = 't093bnWPRt13lz0I8w1kx4xDKx3BWZET'
+
+// Getting random cities information for initial screen
+
 
 // Getting city information
 const getCity = async (city) => {

@@ -5,5 +5,12 @@ body{
 }
 
 .container{
-    max-width: 400px;
+    max-width: 500px;
+}
+.weather-img{
+    position: relative;
+    top: -50px;
+    border-radius: 80%;
+    width: 100px;
+    margin-bottom: -50px;
 }
